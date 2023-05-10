@@ -1,0 +1,21 @@
+.container {
+    min-height: 300px;
+    width: 500px;
+    margin: 100px auto;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input {
+    min-height: 100px;
+    min-width: 200px;
+}
+
+.input-sector {
+    display: flex;
+    justify-content: center;
+}
